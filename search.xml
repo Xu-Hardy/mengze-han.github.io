@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World!</title>
+    <url>/2022/01/31/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/01/31/nuc8/</url>
+    <content><![CDATA[<h3 id="nuc8折腾手记"><a href="#nuc8折腾手记" class="headerlink" title="nuc8折腾手记"></a>nuc8 折腾手记</h3>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/01/31/pi_sever/</url>
+    <content><![CDATA[<h3 id="局域网的服务"><a href="#局域网的服务" class="headerlink" title="局域网的服务"></a>局域网的服务</h3><ul>
+<li><input disabled="" type="checkbox"> portainer     # docker 的可视化 GUI</li>
+<li><input disabled="" type="checkbox"> mediawiki     # wiki，维基百科就是根据它做的</li>
+<li><input disabled="" type="checkbox"> jellyfin      # 家庭影音系统，可以配合 kodi</li>
+<li><input disabled="" type="checkbox"> nextcloud     # 网盘</li>
+<li><input disabled="" type="checkbox"> calibre       # 电子书系统，可以通过 web 部署</li>
+<li><input disabled="" type="checkbox"> openmediavault  # OMV5 与 freenas 是亲戚</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>tag</title>
+    <url>/2020/11/22/tag/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/01/31/ventoy/</url>
+    <content><![CDATA[<p>ventoy</p>
+<p>多合一系统盘</p>
+<p>插件好处</p>
+]]></content>
+  </entry>
+</search>
